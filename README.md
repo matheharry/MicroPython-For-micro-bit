@@ -4,7 +4,7 @@
 Ein KOSTENLOSER MicroPython-Kurs zum Erlernen von MicroPython mit spezieller Anwendung auf den micro:bit V2.
 
 ## Lektion 1: MicroPython für micro:bit (Teil 1: Grundlegende E/A)
-In dieser Lektion werden die grundlegenden Ein- und Ausgaben von MicroPython für das micro:bit V2 behandelt.
+In dieser Lektion werden die grundlegenden Ein- und Ausgaben von MicroPython für den micro:bit V2 behandelt.
 
 -> Klicken Sie [HIER](https://www.linkedin.com/pulse/micropython-microbit-part-1-basic-io-kevin-thomas/), um den Artikel auf LinkedIn zu lesen.
 
