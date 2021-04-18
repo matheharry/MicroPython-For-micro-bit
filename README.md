@@ -1,7 +1,7 @@
 ![image](https://github.com/mytechnotalent/micropython_for_microbit/blob/main/MicroPython%20For%20micro_bit.png?raw=true)
 
 # MicroPython für micro:bit
-Ein KOSTENLOSER MicroPython-Kurs zum Erlernen von MicroPython mit spezieller Anwendung auf den micro:bit V2.
+Ein KOSTENLOSER MicroPython-Kurs von Kevin Thomas zum Erlernen von MicroPython mit spezieller Anwendung auf den micro:bit V2.
 
 ## Lektion 1: MicroPython für micro:bit (Teil 1: Grundlegende E/A)
 In dieser Lektion werden die grundlegenden Ein- und Ausgaben von MicroPython für den micro:bit V2 behandelt.

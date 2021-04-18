@@ -1,14 +1,14 @@
-# We introduce the concept of a variable to which
-# we reserve a little box in our computer's memory
-# to hold the string which we are going to type
-# when prompted to provide our favorite food and
-# favorite drink
-favorite_food = input('What is your favorite food? ')
-favorite_drink = input('What is your favorite drink? ')
+# Wir führen das Konzept einer Variable ein, für die
+# wir eine kleine Box im Speicher unseres Computers reservieren
+# um den String aufzunehmen, den wir eingeben werden
+# wenn wir aufgefordert werden, unser Lieblingsessen und
+# Lieblingsgetränk einzugeben
+favorite_food = input('Was ist dein Lieblingsessen? ')
+favorite_drink = input('Was ist dein Lieblingsgetränk? ')
 
-# Here we use MicroPython's built-in format method 
-# which is part of the string module's Formatter 
-# class as the following line of code will provide 
-# a response back based to the console based on
-# our two variables which we inputted above
-print('I love {0} and {1} as well!'.format(favorite_food, favorite_drink))
+# Hier verwenden wir die in MicroPython eingebaute Formatierungsmethode 
+# die Teil der Formatter Klasse des String Moduls ist. 
+# Die folgende Code-Zeile liefert 
+# eine Antwort zurück auf die Konsole, basierend auf
+# unseren beiden Variablen, die wir oben eingegeben haben
+print('Ich liebe {0} und {1} gleichermaßen!'.format(favorite_food, favorite_drink))
